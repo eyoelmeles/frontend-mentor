@@ -27,8 +27,9 @@ A simple qr-code component made with html and tailwindcss
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- List of Solutions and Blog: [Solutions and Blogs](https://eyoelmelesfrontendmentor.netlify.app/)
+- Solution URL: [Solution URL](https://github.com/eyoelmeles/frontend-mentor/tree/main/qr-code-component-main)
+- Live Site URL: [Live page URL](https://eyoelmelesfrontendmentor.netlify.app/qr-code-component-main/index.html)
 
 ## My process
 
