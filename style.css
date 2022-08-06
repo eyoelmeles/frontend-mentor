@@ -10,6 +10,10 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  color: #61141f;
+}
+
 li {
   list-style-type: none;
   padding: 5px 0;
@@ -52,8 +56,29 @@ section {
   padding: 10px;
 }
 
-section > ul {
-  margin-left: 20px;
+#project-list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.project-image {
+  width: auto;
+  height: 95%;
+  margin-right: 20px;
+}
+
+.project-list {
+  display: flex;
+  flex-direction: column;
+  width: 260px;
+  height: 260px;
+  overflow: hidden;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  align-items: center;
+  justify-content: center;
 }
 
 footer {
