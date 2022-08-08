@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/eyoelmeles/frontend-mentor/tree/main/launch-countdown-timer-main)
+- Live Site URL: [Add live site URL here](https://eyoelmelesfrontendmentor.netlify.app/launch-countdown-timer-main/index.html)
 
 ## My process
 
