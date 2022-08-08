@@ -4,6 +4,11 @@ const data = [
     image: "./qr-code-component-main/images/screenshot.png",
     link: "./qr-code-component-main/index.html",
   },
+  {
+    name: "Launch countdown timer",
+    image: "./launch-countdown-timer-main/images/Screenshot.png",
+    link: "./launch-countdown-timer-main/index.html",
+  },
 ];
 
 const Projects = document.querySelector("#project-list");
