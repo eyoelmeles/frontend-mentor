@@ -9,6 +9,11 @@ const data = [
     image: "./launch-countdown-timer-main/images/Screenshot.png",
     link: "./launch-countdown-timer-main/index.html",
   },
+  {
+    name: "Product preview card component",
+    image: "./product-preview-card-component-main/images/Screenshot.png",
+    link: "./product-preview-card-component-main/index.html",
+  },
 ];
 
 const Projects = document.querySelector("#project-list");
