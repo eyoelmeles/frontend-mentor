@@ -27,6 +27,7 @@ function createProject(name, image, link) {
   imaged.setAttribute("class", "project-image");
   linked.setAttribute("href", link);
   linked.textContent = name;
+  linked.setAttribute("class", "project-link");
   li.setAttribute("class", "project-list");
   li.appendChild(imaged);
   li.appendChild(linked);
