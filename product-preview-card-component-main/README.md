@@ -21,8 +21,9 @@ This is a solution to the [Launch countdown timer challenge on Frontend Mentor](
 
 ### Screenshot
 
-![screenshot](./images/Screenshot.png)
-![screenshot](./images/Screenshot2.png)
+<!-- ![screenshot](./images/Screenshot.png) -->
+
+![screenshot](./images/Screenshot3.png)
 
 ### Links
 

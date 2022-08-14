@@ -11,7 +11,7 @@ const data = [
   },
   {
     name: "Product preview card component",
-    image: "./product-preview-card-component-main/images/Screenshot.png",
+    image: "./product-preview-card-component-main/images/Screenshot3.png",
     link: "./product-preview-card-component-main/index.html",
   },
 ];
